@@ -1,6 +1,6 @@
 #Livro de receitas
 
-Este é o meu livro de receitas.
+Olá, seja bem-vindo ao livro de receitas do Perkles.
 
  - Strogonoff de frango
  
